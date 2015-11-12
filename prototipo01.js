@@ -368,6 +368,7 @@ var funcoes = [
     ""//
 ];
 
+console.log("Modificações feitas utilizando o git!");
 imprimir(process.argv[2]);
 
 function imprimir(texto) {
