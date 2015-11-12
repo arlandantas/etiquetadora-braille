@@ -8,5 +8,3 @@ for(var i = 0; i < chars.length; i++) {
     ret += '{\t"caractere": "'+c+'",\n\t"braille": ""\n}';
 }
 console.log(ret);
-
-/// Testando Modificação com GIT
